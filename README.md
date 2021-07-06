@@ -2,7 +2,7 @@
 
 ## 42Seoul La-Picine Projects (2021. 02. 15. - 2021. 03. 19.)
 
-
+![C](https://img.shields.io/badge/-C-A8B9CC?style-flat-square&logo=C&logoColor=white)
 ### ✔ 본 코드들은 42서울 라피신 과정 중 제출한 과제 및 팀 프로젝트 소스코드들입니다.
 ### ✔ 문제는 PDF 디렉토리 내에서 확인하실 수 있습니다.
 
